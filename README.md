@@ -9,5 +9,6 @@ Lost access to my [previous account](https://github.com/uv0id), but hey, fresh s
 Check out the snapshot of languages across my repos:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refcounter&theme=tokyonight&layout=compact#gh-dark-mode-only" alt="My repository language statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refcounter&theme=nightowl#gh-dark-mode-only" alt="My repository language statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refcounter&theme=vue#gh-light-mode-only" alt="My repository language statistics">
 </p>
