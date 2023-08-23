@@ -10,5 +10,5 @@ Check out the snapshot of languages across my repos:
 
 <p align="center">
   <img alt="My repository language statistics dark-mode" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=refcounter&theme=nightowl&layout=compact#gh-dark-mode-only" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=refcounter&theme=nightowl&layout=compact&langs_count=10#gh-dark-mode-only" />
 </p>
