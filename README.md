@@ -7,4 +7,7 @@ Lost access to my [previous account](https://github.com/uv0id), but hey, fresh s
 - 💞️ If a project catches my *curiosity*, I'm all in for some amazing collaboration.
 
 Check out the snapshot of languages across my repos:
-<br>![My repository language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=refcounter&theme=tokyonight&layout=compact#gh-dark-mode-only)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refcounter&theme=tokyonight&layout=compact#gh-dark-mode-only" alt="My repository language statistics">
+</p>
