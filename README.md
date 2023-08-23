@@ -1,16 +1,10 @@
-- 👋 Hi, I’m @refcounter, a somewhat *perfection* striving developer (yeah, platonic i know) ! Nevertheless i'm looking forward to work and learn with you<br />
-I lost access to my <a href="https://github.com/uv0id">old account</a> so i've created this one
-- 👀 I’m interested in ***creating cool stuffs with code***
-- 🌱 I’ve been learning *Rust*, *C* and *go* for quite a while now, though i got to keep my employability through more traditional languanges like *Java, C#, JavaScript, and Python*. Also, i recent days i got quite a liking to *Lua*.
-- 💞️ I’m looking to collaborate on pretty much anything that catches my *attention*.
+👋 Hey there, I’m @refcounter, an avid developer on a quest for coding excellence (although I'll admit, it's more of a platonic pursuit)! Collaborating, learning, and crafting are my jam, and I'm excited to embark on this journey with you.
 
+Lost access to my [previous account](https://github.com/uv0id), but hey, fresh starts are invigorating!
 
-<!-- ![My Repo Stats](https://github-readme-stats.vercel.app/api?username=refcounter&count_private=true&hide=prs&show_icons=true&theme=tokyonight#gh-dark-mode-only) -->   
-![My repo langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=refcounter&theme=tokyonight&layout=compact#gh-dark-mode-only)
-<!--![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)-->
-<!--- 📫 How to reach me  -->
+- 👀 I’m all about **weaving magic with code** to create awesome things
+- 🌱 I’ve been immersed in the world of *Rust*, *C*, and *Go* for quite some time. Meanwhile, I'm seamlessly navigating through more traditional languages like *Java*, *C#*, *JavaScript*, and *Python*. Oh, and lately, I've caught a wave of fascination for *Lua*.
+- 💞️ If a project catches my *curiosity*, I'm all in for some amazing collaboration.
 
-<!---
-uv0id2/uv0id2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Check out the snapshot of languages across my repos:
+![My repository language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=refcounter&theme=tokyonight&layout=compact#gh-dark-mode-only)
